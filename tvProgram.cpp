@@ -1,20 +1,4 @@
 
-/*********
-CTIS164
-----------
-STUDENT : Mustafa Asrın Değirmenci
-SECTION : 02
-HOMEWORK:  01
-----------
-PROBLEMS: NO PROBLEM!!!
-----------
-ADDITIONAL FEATURES:
- --- Changing Vehicles (Rocket - UFO)
- --- Falling Stars
- --- Local Time  Digital Clock Work
- 
-*********/
-
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif
